@@ -2,7 +2,7 @@
 
 **`Analista de Dados Jr`**
 
-Engenheiro de formação, iniciei como Analista de Estoque em 2017, desenvolvendo habilidades em Excel e visualização de dados. Promovido a Gerente de Estoque em 2020, acabei atingido pela pandemia.Mas, mantive meus estudos em análise de dados (SQL, Python, Power BI). Participei do Social Tech da Embraer em 2022, ampliando minha visão na área. Busco agora oportunidades como Analista de Dados Júnior para consolidar minha transição e aplicar meus conhecimentos técnicos.
+Engenheiro de formação, iniciei como Analista de estoque em 2017, desenvolvendo habilidades em **Excel e visualização de dados**. Promovido a Gerente de Estoque em 2020, acabei atingido pela pandemia. Mas, mantive meus estudos em análise de dados (SQL, Python, Power BI, etc). Participei do Social Tech da Embraer em 2022, ampliando minha visão na área. Busco agora oportunidades como **Analista de Dados Júnior** para consolidar minha transição e aplicar meus conhecimentos técnicos.
 
 ---
 
